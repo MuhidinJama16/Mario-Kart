@@ -1,0 +1,22 @@
+/* Style Sheet */
+
+body {
+    background: url('images/Mario.jpg') center no-repeat fixed;
+    background-size: cover;
+    margin: 40px;
+}
+  
+  .main {
+    width: 600px;
+    padding: 50px 100px;
+    margin: 0 auto;
+    font-family: Arial;
+    background-color: red;
+    border-radius: 20px;
+}
+  
+  #results img {
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+}
